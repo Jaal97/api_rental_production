@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.edu.unab.apirestg03.ApiRestG03ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.072 s - in co.edu.unab.apirestg03.ApiRestG03ApplicationTests
